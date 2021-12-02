@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=pyOBD
+Icon=/home/pi/pyobd/pyobd.gif
+Exec=python2 /home/pi/pyobd/pyobd
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;
