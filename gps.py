@@ -1,3 +1,10 @@
+# Program that takes ttyAMA0 input from the Neo 6m GPS module and
+# converts it into Latitude and Longitude coordinates, used by
+# Google Maps for offline use.
+#
+# Code used sourced from https://sparklers-the-makers.github.io/blog/robotics/realtime-gps-tracker-with-raspberry-pi/
+#
+
 import serial
 import time
 import string
