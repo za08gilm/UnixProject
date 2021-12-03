@@ -1,7 +1,7 @@
 # UnixProject
 Programs used for the Unix project:
 
-  For this project, the main program used was pyOBD-II, by Pbartek https://github.com/Pbartek/pyOBD-pi-TFT, 
+  For this project, the main program used was pyOBD-II, by Pbartek https://github.com/Pbartek/pyOBD-pi, 
   which is an "improved" version of a version of pyOBD-II by peterh, as explained in the README for the
   program. 
 
