@@ -19,3 +19,8 @@ Packages needed to run Spotify:
   and Macs by default, on the Raspberry Pi running Raspbian, this is not the case, making this package
   a necessity to run Spotify.
   
+Necessities for the Neo 6M:
+  In order to get the Neo 6M module running, I had to modify the /boot/config.txt and /boot/cmdline.txt
+  files in order for the raspberry pi to display coordinate information from the module at specified intervals.
+  In order to back up my information in case of crashing, I also created a backup file containing the 
+  contents of the original cmdline.txt file.
