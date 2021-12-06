@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=pyOBD
-Icon=/home/pi/pyobd/pyobd.gif
-Exec=python2 /home/pi/pyobd/pyobd
+Icon=/home/pi/pyobd-pi/pyobd.gif
+Exec=/home/pi/pyobd-pi/pyobd/obd.sh
 Type=Application
 Encoding=UTF-8
 Terminal=false
